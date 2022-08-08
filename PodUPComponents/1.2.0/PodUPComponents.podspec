@@ -26,10 +26,10 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author             = { "Chris Ferdian" => "chris.ferdian@aia.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "http://gitlab.digital.id.aia.biz/icare/podupcomponents"
+s.homepage = "http://iddciplcpw01d.aia.biz:31080/icare/podupcomponents"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "http://gitlab.digital.id.aia.biz/icare/podupcomponents.git",
+s.source = { :git => "http://iddciplcpw01d.aia.biz:31080/icare/podupcomponents.git",
 :tag => "#{s.version}" }
 
 # 7
